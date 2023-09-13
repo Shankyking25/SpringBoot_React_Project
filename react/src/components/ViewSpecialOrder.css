@@ -1,0 +1,15 @@
+viewSpecial {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .sptd{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .sptr:nth-child(even) {
+    background-color: #dddddd;
+  }
